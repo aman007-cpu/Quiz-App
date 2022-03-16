@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">QUIZ APP</string>
+    <string name="questionno">1/8 Question</string>
+    <string name="score">Score 0/8</string>
+    <string name="que1">Who tricks Naruto into stealing a scroll in the first episode of the series?</string>
+    <string name="que1_A">IRUKA</string>
+    <string name="que1_B">MIZUKI</string>
+    <string name="que1_C">HIRUZEN</string>
+    <string name="que1_D">TRASH(you know who :) )</string>
+    <string name="ans1">MIZUKI</string>
+
+    <string name="que2">Who are Itachi and Kisame looking for when they first arrive in Konoha together?</string>
+    <string name="que2_A">IRUKA</string>
+    <string name="que2_B">HINATA SAMA</string>
+    <string name="que2_C">SASUUUKEE</string>
+    <string name="que2_D">NARUTO</string>
+    <string name="ans2">NARUTO</string>
+
+
+    <string name="que3">What is the name of Madara Uchiha grand plan?</string>
+    <string name="que3_A">INFINITE TSUKUYOMI</string>
+    <string name="que3_B">INFINITE RUMBLING(ITS COMING....)</string>
+    <string name="que3_C">BROMANCE WITH HASHIRAMA</string>
+    <string name="que3_D">FLAT TRASH :)</string>
+    <string name="ans3">INFINITE TSUKUYOMI</string>
+
+    <string name="que4">What surrounds the area where humans live in Attack on Titan?</string>
+    <string name="que4_A">RIVER</string>
+    <string name="que4_B">Sono na wa EREN YEAGER..</string>
+    <string name="que4_C">WALLS</string>
+    <string name="que4_D">BUBBLE</string>
+    <string name="ans4">WALLS</string>
+
+    <string name="que5">Which family member does Eren watch get eaten by a Titan?</string>
+    <string name="que5_A">MILF</string>
+    <string name="que5_B">LEVI </string>
+    <string name="que5_C">JEAN HORSE</string>
+    <string name="que5_D">NIGGA</string>
+    <string name="ans5">MILF</string>
+
+    <string name="que6">What kind of Titan is Eren?</string>
+    <string name="que6_A">HORNY</string>
+    <string name="que6_B">ATTACK TITAN</string>
+    <string name="que6_C">FOUNDING TITAN</string>
+    <string name="que6_D">FCK NO OPTION</string>
+    <string name="ans6">FCK NO OPTION</string>
+
+    <string name="que7">Who is Beerus looking for in the beginning of the series?</string>
+    <string name="que7_A">Super NIBBI </string>
+    <string name="que7_B">OH hoo Ganzaa Ganzaa</string>
+    <string name="que7_C">Prince Vegeta</string>
+    <string name="que7_D">Super Saiyan God</string>
+    <string name="ans7">Super Saiyan God</string>
+
+    <string name="que8">Who is the strongest character(in DBS)?</string>
+    <string name="que8_A">Vegeta, Prince of all Saiyans</string>
+    <string name="que8_B">Beerus, God of Destruction</string>
+    <string name="que8_C">Son-Goku</string>
+    <string name="que8_D">Omni Chotu King</string>
+    <string name="ans8">Omni Chotu King</string>
+
+
+</resources>
